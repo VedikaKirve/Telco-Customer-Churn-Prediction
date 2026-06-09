@@ -70,7 +70,7 @@ Random Forest Accuracy: 76.8%
 <img width="499" height="183" alt="image" src="https://github.com/user-attachments/assets/3187dab0-d0d2-4106-8156-464a7627996e" />
 
 ## - Payment Method vs Churn
-<img width="767" height="328" alt="image" src="https://github.com/user-attachments/assets/0ecf2f02-daeb-4fcb-94c4-6f3beaf3cec0" />
+<img width="667" height="328" alt="image" src="https://github.com/user-attachments/assets/0ecf2f02-daeb-4fcb-94c4-6f3beaf3cec0" />
 
 ## - Senior Citizen vs Churn
 <img width="321" height="279" alt="image" src="https://github.com/user-attachments/assets/d1c62f2b-f483-489f-a305-be8c9c4504f2" />
