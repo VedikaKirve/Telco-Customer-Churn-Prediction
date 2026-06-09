@@ -61,7 +61,7 @@ Random Forest Accuracy: 76.8%
 <img width="502" height="215" alt="image" src="https://github.com/user-attachments/assets/661365b5-a188-4e20-91d6-a2bceac6beac" />
 
 ## - Monthly Charges vs Churn
-<img width="489" height="181" alt="image" src="https://github.com/user-attachments/assets/ff0714c3-ab17-41c0-b587-848547e7a045" />
+<img width="389" height="281" alt="image" src="https://github.com/user-attachments/assets/ff0714c3-ab17-41c0-b587-848547e7a045" />
 
 ## - Tenure vs Churn
 <img width="369" height="276" alt="image" src="https://github.com/user-attachments/assets/49487fe0-94a9-4bf1-8f23-dfa310db8fea" />
