@@ -73,7 +73,7 @@ Random Forest Accuracy: 76.8%
 <img width="867" height="328" alt="image" src="https://github.com/user-attachments/assets/0ecf2f02-daeb-4fcb-94c4-6f3beaf3cec0" />
 
 ## - Senior Citizen vs Churn
-<img width="321" height="79" alt="image" src="https://github.com/user-attachments/assets/d1c62f2b-f483-489f-a305-be8c9c4504f2" />
+<img width="321" height="279" alt="image" src="https://github.com/user-attachments/assets/d1c62f2b-f483-489f-a305-be8c9c4504f2" />
 
 
 
