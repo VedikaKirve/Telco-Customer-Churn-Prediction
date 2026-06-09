@@ -58,7 +58,7 @@ Random Forest Accuracy: 76.8%
 <img width="297" height="79" alt="image" src="https://github.com/user-attachments/assets/637f1a65-4e28-4a58-87e6-87f7feac79d3" />
 
 ## - Contract Type vs Churn
-<img width="502" height="215" alt="image" src="https://github.com/user-attachments/assets/661365b5-a188-4e20-91d6-a2bceac6beac" />
+<img width="402" height="315" alt="image" src="https://github.com/user-attachments/assets/661365b5-a188-4e20-91d6-a2bceac6beac" />
 
 ## - Monthly Charges vs Churn
 <img width="389" height="281" alt="image" src="https://github.com/user-attachments/assets/ff0714c3-ab17-41c0-b587-848547e7a045" />
