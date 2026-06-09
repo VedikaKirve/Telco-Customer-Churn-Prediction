@@ -51,10 +51,10 @@ if st.button("Predict"):
         value=f"{probability:.2%}"
     )
 
-    if probability < 0.30:
+    if probability < 0.40:
         st.success("🟢 Low Risk Customer")
 
-    elif probability < 0.70:
+    elif probability < 0.75:
         st.warning("🟡 Medium Risk Customer")
 
     else:
