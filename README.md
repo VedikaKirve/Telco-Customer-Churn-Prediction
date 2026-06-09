@@ -55,7 +55,7 @@ Random Forest Accuracy: 76.8%
 
 
 ## - Gender vs Churn
-<img width="197" height="179" alt="image" src="https://github.com/user-attachments/assets/637f1a65-4e28-4a58-87e6-87f7feac79d3" />
+<img width="297" height="279" alt="image" src="https://github.com/user-attachments/assets/637f1a65-4e28-4a58-87e6-87f7feac79d3" />
 
 ## - Contract Type vs Churn
 <img width="402" height="315" alt="image" src="https://github.com/user-attachments/assets/661365b5-a188-4e20-91d6-a2bceac6beac" />
