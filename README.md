@@ -41,7 +41,7 @@ Random Forest Accuracy: 76.8%
 
 ## Screenshots
 # 1. Dashboard Home Page
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/a27b7fa5-5dd9-4363-9a07-b0388e382edd" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/a27b7fa5-5dd9-4363-9a07-b0388e382edd" />
 
 # 2. Churn Prediction Example
 <img width="718" height="627" alt="image" src="https://github.com/user-attachments/assets/772cde65-4810-43ef-8ba1-c4e3840e6347" />
