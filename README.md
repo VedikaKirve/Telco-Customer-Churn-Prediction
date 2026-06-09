@@ -47,7 +47,7 @@ Random Forest Accuracy: 76.8%
 <img width="518" height="427" alt="image" src="https://github.com/user-attachments/assets/772cde65-4810-43ef-8ba1-c4e3840e6347" />
 
 # 3. Feature Importance Chart
-<img width="930" height="271" alt="image" src="https://github.com/user-attachments/assets/5781d229-ab38-434a-afa4-dc381691140a" />
+<img width="830" height="371" alt="image" src="https://github.com/user-attachments/assets/5781d229-ab38-434a-afa4-dc381691140a" />
 
 # 4. EDA Visualizations
 ## - Churn Distribution
