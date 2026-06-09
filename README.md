@@ -64,7 +64,7 @@ Random Forest Accuracy: 76.8%
 <img width="489" height="181" alt="image" src="https://github.com/user-attachments/assets/ff0714c3-ab17-41c0-b587-848547e7a045" />
 
 ## - Tenure vs Churn
-<img width="269" height="176" alt="image" src="https://github.com/user-attachments/assets/49487fe0-94a9-4bf1-8f23-dfa310db8fea" />
+<img width="369" height="276" alt="image" src="https://github.com/user-attachments/assets/49487fe0-94a9-4bf1-8f23-dfa310db8fea" />
 
 ## - Internet Service vs Churn
 <img width="299" height="183" alt="image" src="https://github.com/user-attachments/assets/3187dab0-d0d2-4106-8156-464a7627996e" />
