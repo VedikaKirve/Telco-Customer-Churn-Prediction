@@ -51,11 +51,11 @@ Random Forest Accuracy: 76.8%
 
 # 4. EDA Visualizations
 ## - Churn Distribution
-<img width="290" height="82" alt="image" src="https://github.com/user-attachments/assets/0ed470d4-24f5-4301-8b53-3ebe00417021" />
+<img width="290" height="182" alt="image" src="https://github.com/user-attachments/assets/0ed470d4-24f5-4301-8b53-3ebe00417021" />
 
 
 ## - Gender vs Churn
-<img width="297" height="279" alt="image" src="https://github.com/user-attachments/assets/637f1a65-4e28-4a58-87e6-87f7feac79d3" />
+<img width="397" height="279" alt="image" src="https://github.com/user-attachments/assets/637f1a65-4e28-4a58-87e6-87f7feac79d3" />
 
 ## - Contract Type vs Churn
 <img width="402" height="315" alt="image" src="https://github.com/user-attachments/assets/661365b5-a188-4e20-91d6-a2bceac6beac" />
