@@ -44,35 +44,35 @@ Random Forest Accuracy: 76.8%
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a27b7fa5-5dd9-4363-9a07-b0388e382edd" />
 
 2. Churn Prediction Example
-<img width="918" height="827" alt="image" src="https://github.com/user-attachments/assets/772cde65-4810-43ef-8ba1-c4e3840e6347" />
+<img width="718" height="627" alt="image" src="https://github.com/user-attachments/assets/772cde65-4810-43ef-8ba1-c4e3840e6347" />
 
 3. Feature Importance Chart
-<img width="1330" height="671" alt="image" src="https://github.com/user-attachments/assets/5781d229-ab38-434a-afa4-dc381691140a" />
+<img width="1130" height="471" alt="image" src="https://github.com/user-attachments/assets/5781d229-ab38-434a-afa4-dc381691140a" />
 
 4. EDA Visualizations
 Churn Distribution
-<img width="690" height="482" alt="image" src="https://github.com/user-attachments/assets/0ed470d4-24f5-4301-8b53-3ebe00417021" />
+<img width="490" height="282" alt="image" src="https://github.com/user-attachments/assets/0ed470d4-24f5-4301-8b53-3ebe00417021" />
 
 Gender vs Churn
-<img width="697" height="479" alt="image" src="https://github.com/user-attachments/assets/637f1a65-4e28-4a58-87e6-87f7feac79d3" />
+<img width="497" height="279" alt="image" src="https://github.com/user-attachments/assets/637f1a65-4e28-4a58-87e6-87f7feac79d3" />
 
 Contract Type vs Churn
-<img width="902" height="615" alt="image" src="https://github.com/user-attachments/assets/661365b5-a188-4e20-91d6-a2bceac6beac" />
+<img width="702" height="415" alt="image" src="https://github.com/user-attachments/assets/661365b5-a188-4e20-91d6-a2bceac6beac" />
 
 Monthly Charges vs Churn
-<img width="889" height="581" alt="image" src="https://github.com/user-attachments/assets/ff0714c3-ab17-41c0-b587-848547e7a045" />
+<img width="689" height="381" alt="image" src="https://github.com/user-attachments/assets/ff0714c3-ab17-41c0-b587-848547e7a045" />
 
 Tenure vs Churn
-<img width="869" height="576" alt="image" src="https://github.com/user-attachments/assets/49487fe0-94a9-4bf1-8f23-dfa310db8fea" />
+<img width="669" height="376" alt="image" src="https://github.com/user-attachments/assets/49487fe0-94a9-4bf1-8f23-dfa310db8fea" />
 
 Internet Service vs Churn
-<img width="899" height="583" alt="image" src="https://github.com/user-attachments/assets/3187dab0-d0d2-4106-8156-464a7627996e" />
+<img width="699" height="383" alt="image" src="https://github.com/user-attachments/assets/3187dab0-d0d2-4106-8156-464a7627996e" />
 
 Payment Method vs Churn
-<img width="1267" height="728" alt="image" src="https://github.com/user-attachments/assets/0ecf2f02-daeb-4fcb-94c4-6f3beaf3cec0" />
+<img width="1067" height="528" alt="image" src="https://github.com/user-attachments/assets/0ecf2f02-daeb-4fcb-94c4-6f3beaf3cec0" />
 
 Senior Citizen vs Churn
-<img width="721" height="479" alt="image" src="https://github.com/user-attachments/assets/d1c62f2b-f483-489f-a305-be8c9c4504f2" />
+<img width="521" height="279" alt="image" src="https://github.com/user-attachments/assets/d1c62f2b-f483-489f-a305-be8c9c4504f2" />
 
 
 
