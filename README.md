@@ -1,39 +1,43 @@
 # Customer Churn Prediction
 
-## Overview
-
-This project predicts whether a customer is likely to churn using machine learning.
+## 📌Overview
+Customer Churn Prediction is a Machine Learning project developed to identify customers who are likely to discontinue a company's services. Using customer demographic, service usage, and billing information, the project analyzes customer behavior patterns and predicts churn probability. The insights generated from the model help businesses understand customer retention challenges and take proactive measures to reduce customer attrition and improve overall customer satisfaction.
 
 ## Dataset
-
 IBM Telco Customer Churn Dataset
 
-## Technologies Used
+## Objectives
+- Predict customer churn using machine learning techniques.
+- Analyze customer behavior and identify churn patterns.
+- Discover key factors influencing customer retention.
+- Provide business insights through data visualization.
+- Deploy an interactive web application for real-time predictions.
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Streamlit
+## 🛠️Technologies Used
+- Frontend/UI: Streamlit
+- Backend: Python
+- Libraries:
+-- Pandas
+-- NumPy
+-- Matplotlib
+-- Seaborn
+-- Scikit-learn
 
-## Workflow
-
-1. Data Cleaning
-2. Exploratory Data Analysis
+## ⚙️Workflow/ Key Features
+1. Data Cleaning and Preprocessing
+2. Exploratory Data Analysis (EDA)
 3. Feature Engineering
-4. Model Training
-5. Model Evaluation
+4. Logistic Regression and Random Forest Models
+5. Model Evaluation and Comparison
 6. Feature Importance Analysis
-7. Streamlit Deployment
+7. Churn Probability Prediction
+8. Risk Level Classification
+9. Interactive Streamlit Dashboard
 
-## Model Performance
-
+## 🧠Model Performance
 Random Forest Accuracy: 76.8%
 
 ## Key Insights
-
 - Customers with shorter tenure are more likely to churn.
 - Month-to-month contracts have the highest churn.
 - Higher monthly charges increase churn risk.
@@ -74,8 +78,33 @@ Random Forest Accuracy: 76.8%
 ## - Senior Citizen vs Churn
 <img width="321" height="279" alt="image" src="https://github.com/user-attachments/assets/d1c62f2b-f483-489f-a305-be8c9c4504f2" />
 
+## 📦 Installation (Local Setup)
+1. Clone the repository:
+git clone <repository-url>
+cd Customer-Churn-Prediction
+2. Create a virtual environment:
+python -m venv venv
+3. Activate the virtual environment:
+**Windows**
+venv\Scripts\activate
+**Linux/Mac**
+source venv/bin/activate
+4. Install the required dependencies:
+pip install -r requirements.txt
+5. Run the Streamlit application:
+streamlit run app.py
+6. Open the application in your browser using the URL displayed in the terminal (typically `http://localhost:8501`).
 
+## 🌍 Live Demo
+https://telco-customer-churn-prediction-ant3tyag4devmklgfdvivc.streamlit.app/
 
+## Author
+**Vedika Kirve**
+This project is part of my portfolio, showcasing the Machine Learning, Exploratory Data Analysis (EDA), Feature Engineering, Data Visualization, Streamlit Deployment skills essential for data science roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
+Email: vedikakirve6@gmail.com  
+LinkedIn: www.linkedin.com/in/vedikakirve06  
+GitHub: https://github.com/VedikaKirve
 
 
 
