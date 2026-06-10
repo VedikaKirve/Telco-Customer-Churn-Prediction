@@ -82,17 +82,13 @@ Random Forest Accuracy: 76.8%
 1. Clone the repository:
 git clone <repository-url>
 cd Customer-Churn-Prediction
-2. Create a virtual environment:
-python -m venv venv
-3. Activate the virtual environment:
-**Windows**
+2. Create a virtual environment: python -m venv venv
+3. Activate the virtual environment: **Windows**
 venv\Scripts\activate
 **Linux/Mac**
 source venv/bin/activate
-4. Install the required dependencies:
-pip install -r requirements.txt
-5. Run the Streamlit application:
-streamlit run app.py
+4. Install the required dependencies: pip install -r requirements.txt
+5. Run the Streamlit application: streamlit run app.py
 6. Open the application in your browser using the URL displayed in the terminal (typically `http://localhost:8501`).
 
 ## 🌍 Live Demo
